@@ -6,7 +6,6 @@ Facebook Video Downloader
 ## Requirements
 
 This project need Node.js and a node global package installed in your environement
-
 ### Node
 
 
