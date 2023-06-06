@@ -1,5 +1,5 @@
 {
-  "name": "facebook-video-downloader",
+  "name": "fb-video-downloader",
   "version": "1.0.0",
   "description": "FB Video Downloader ",
   "main": "app.js",
