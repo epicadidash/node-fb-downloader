@@ -12,7 +12,7 @@ const getUrl = (url) => {
     };
     request(options, function (error, response) {
         if (error) throw new Error(error);
-        let namaVideo = "noname " + Math.random(666) + ".mp4"
+        let namaVideo = "fb " + Math.random(666) + ".mp4"
 
         let private = response.body.match(/Uh-Oh! This video might be private and not publi/g)
         if (private) {
