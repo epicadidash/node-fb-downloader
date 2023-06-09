@@ -108,7 +108,6 @@ const start = () => {
     })
     console.log('\x1b[32m%s\x1b[0m', '\n================================================\n')
     console.log('\x1b[32m%s\x1b[0m', 'Facebook Video Downloader\n')
-    console.log('\x1b[32m%s\x1b[0m', 'Coded by Parasit \n')
     console.log('\x1b[32m%s\x1b[0m', '================================================\n')
     rl.question(`\x1b[32mInput URL : `, (url) => {
         console.log('\x1b[32m%s\x1b[0m', '\n[+] Checking Video URL . . . ')
